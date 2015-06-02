@@ -1,5 +1,6 @@
 #Export Selected Items
 Export Selected Items to Excel
+[![bitHound Score](https://www.bithound.io/github/rjesh-git/ExportSelectedItems/badges/score.svg)](https://www.bithound.io/github/rjesh-git/ExportSelectedItems)
 
 ![](http://3.bp.blogspot.com/-0A_i6an-Sh4/UWMnhoiKdTI/AAAAAAAAB8o/lk5OmwgWeIs/s640/Exportexcel.png)
 
