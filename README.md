@@ -1,5 +1,6 @@
 #Export Selected Items
 [![bitHound Score](https://www.bithound.io/github/rjesh-git/ExportSelectedItems/badges/score.svg)](https://www.bithound.io/github/rjesh-git/ExportSelectedItems)
+[![MIT license](https://img.shields.io/npm/l/express.svg)](https://github.com/rjesh-git/ExportSelectedItems/blob/master/LICENSE)
 
 Export Selected Items to Excel
 
